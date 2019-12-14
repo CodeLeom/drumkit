@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
-body {
-  background-image: url("paper.gif");
-  background-color: #cccccc;
+html {
   font-size: 10px;
+  background-image: url("images/music.jpg");
+  background-color: #cccccc;
 }
 
 body,
